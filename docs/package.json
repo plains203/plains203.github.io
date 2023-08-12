@@ -1,0 +1,19 @@
+{
+  "name": "plains203.github.io",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "James",
+    "email": "james@plains203.com"
+  },
+  "repository": "plains203.github.io/plains203.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
